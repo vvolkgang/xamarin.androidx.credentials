@@ -10,5 +10,4 @@ For this binding, `1.0.x` was used.
 
 1. Build Warnings 
     * Unknown parameters /  duplicate nested type name due to `.Companion` objects
-1. Namespace is currently `Androidx`. It should be changed to `AndroidX`
 1. Lack of C# Async friendly APIs
